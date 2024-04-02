@@ -1,0 +1,50 @@
+{
+  "files": {
+    "lib/client/element.js": [
+      {
+        "id": "528dfe71-d350-4b21-96cb-8309f7d45896",
+        "line": 188,
+        "version": 1,
+        "index": 7934
+      }
+    ],
+    "lib/client/xml.js": [
+      {
+        "id": "50ac4516-a4cd-4977-bc66-32bdb2d88228",
+        "line": 93,
+        "version": 1,
+        "index": 2590
+      }
+    ],
+    "lib/rewrites/base.js": [
+      {
+        "id": "8edd9089-a8e0-403c-bce3-e8d7866ebdc2",
+        "line": 79,
+        "version": 2,
+        "index": 2585
+      },
+      {
+        "id": "9266e5f1-752c-4a35-889a-dc389fd29be1",
+        "line": 79,
+        "version": 2,
+        "index": 2585
+      }
+    ],
+    "lib/server/handleRequest.js": [
+      {
+        "id": "7ec93281-3fc2-47d1-a02b-5635fece6d5d",
+        "line": 176,
+        "version": 129,
+        "index": 7162
+      }
+    ],
+    "lib/server/websocket.js": [
+      {
+        "id": "7d6a30b1-36ea-4fa7-a50e-41152a3f5065",
+        "line": 94,
+        "version": 1,
+        "index": 3736
+      }
+    ]
+  }
+}
